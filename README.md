@@ -16,7 +16,7 @@
 ## Installation
 
 Add the project to the folder http or www of the webserver.
-Restore the db with the file `config/db.php` with real data.
+Restore the mysql db with the file `config/air_traffic_control.sql`.
 Run the webserver and go the browser `http://localhost/AirTrafficControl/web/`.
 
 ## CONFIGURATION
